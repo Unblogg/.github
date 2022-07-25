@@ -4,7 +4,7 @@
 <a href="https://weathered-limit-7676.on.fleek.co/">
 <img src="./assets/unblogged_logo.jpg"/>
 </a>
-*A censorship resistant blog posting platform utilizing IPFS and Markdown*
+_A censorship resistant blog posting platform utilizing IPFS and Markdown_
 
 🌐 Website: <https://weathered-limit-7676.on.fleek.co/>
 
