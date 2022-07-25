@@ -4,6 +4,7 @@
 <a href="https://weathered-limit-7676.on.fleek.co/">
 <img src="./assets/unblogged_logo.jpg"/>
 </a>
+*A censorship resistant blog posting platform utilizing IPFS and Markdown*
 
 🌐 Website: <https://weathered-limit-7676.on.fleek.co/>
 
@@ -14,8 +15,6 @@
 💡 Backend: <https://github.com/Unblogg/unblogged-core>
 
 📑 Deck:
-
-_A censorship resistant blog posting platform utilizing IPFS and Markdown_
 
 **Unblogged** is a blogging application that unblocks any form of censorship (Blog + Unblock = **Unblogged**). It utilizes IPFS to keep user's articles persistent and censorship resistant and Markdown language for a pleasant and familiar writing interface.
 
