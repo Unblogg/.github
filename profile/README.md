@@ -23,6 +23,4 @@ Our team's goal for this hackathon is to develop a 100% decentralized platform u
 
 ## Demo
 
-https://user-images.githubusercontent.com/23635326/180727042-bb3edf03-8367-4507-9dd6-7268fe37ab85.mp4
-
-
+https://user-images.githubusercontent.com/23635326/180727533-b05d3006-4ab7-4008-a55c-dd1355ff08d0.mp4
