@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://weathered-limit-7676.on.fleek.co/">
-<img src="./assets/unblogged_logo.jpg"/>
+<img src="https://raw.githubusercontent.com/Unblogg/.github/main/profile/assets/unblogged_logo.jpg"/>
 </a>
 _A censorship resistant blog posting platform utilizing IPFS and Markdown_
 
